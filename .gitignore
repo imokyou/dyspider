@@ -1,0 +1,6 @@
+.idea
+*.[a|o]
+*.bak
+*.swp
+*.pyc
+dyspiders/settings.py
